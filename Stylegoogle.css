@@ -1,0 +1,97 @@
+*{
+    margin: 0px; padding: 0px;
+    box-sizing: border-box;
+}
+/*----- Title------*/
+.container{
+    display: flex;
+    width: 60%;
+    margin: auto;
+    padding: 100px;
+    font-size: 60px;
+    position: relative;
+    left: 90px;
+    bottom: 20px;
+}
+/*----- Google style------*/
+.g1{
+    color: #4285F4;
+    text-transform: uppercase;
+    
+}
+.o1{
+    color: #DB4437;
+}
+.o2{
+    color: #F4B400;
+}
+.g2{
+    color: #4285F4;
+}
+.l{
+    color: #0F9D58;
+}
+.e{
+    color: #DB4437;
+}
+/*----- Input------*/
+.champs{
+    width: 45%;
+    height: 40px;
+    border-radius: 15px;
+    position: relative;
+    left: 350px;
+    bottom: 70px;
+    border: 1px solid #999;
+    outline: none;
+    text-indent: 50px;
+}
+/*----- Images------*/
+
+.micro{
+    width: 15px;
+    height: 15px;
+    position: relative;
+    left: 870px;
+    bottom: 98px;
+}
+.loupe{
+    width: 15px;
+    height: 15px;
+    position: relative;
+    left: 370px;
+    bottom: 98px;
+}
+.camera{
+    width: 15px;
+    height: 15px;
+    position: relative;
+    left: 880px;
+    bottom: 99px;
+}
+/*----- Buttons ------*/
+.btn{
+    position: relative;
+    left: 500px;
+    bottom: 60px;  
+    border: 1px #999;
+}
+.rech{
+    height: 40px;
+    width: 150px;
+    font-size: 15px;
+}
+.chance{
+    height: 40px;
+    width: 150px;
+    font-size: 15px;
+}
+/*----- Paragraphe------*/
+.para{
+    position: relative;
+    left: 565px;
+    margin-top: -30px;
+}
+.arabe{
+    color:#4285F4;
+}
